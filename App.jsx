@@ -23,7 +23,7 @@
 //                 <Route path="/about" element={<About />} />
 //                 <Route path="/contact" element={<Contact />} />
 //                  <Route path="/Product" element={<Product />} /> 
-//                 {/* <Route path="/product/:id" element={<Product />} />  */}
+
 //              <Route path="/Element" element={<Element/>} />
 //             <Route path="/Element2" element={<Element2/>} />
 //             </Routes>
