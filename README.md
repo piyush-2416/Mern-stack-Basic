@@ -19,4 +19,4 @@ I have make an mern stack website inwhich only have an product list and onclicke
 Note:-This is my first website for mern stack .it defines me what is the process of backend and frontend and database.
 <h1><br>Front-Page view </br></h1>
 <img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/6ed01309-cac1-4bb0-b3de-905a52554073" 
-<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/6ed01309-cac1-4bb0-b3de-905a52554073">
+![Demo Image](https://github.com/user-attachments/assets/6ed01309-cac1-4bb0-b3de-905a52554073)
