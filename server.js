@@ -2,7 +2,7 @@
 // import { MongoClient } from "mongodb";
 // import dotenv from "dotenv";
 // import cors from "cors";
-// const MONGODB_URI="mongodb+srv://wwwpiyushverma2401_db_user:N3hTB85tx.xnStG@piyush2416.sp9zipj.mongodb.net/?appName=Piyush2416"
+// const MONGODB_URI="Put your db url "
 // const Database="Products"
 // const collection="Products-items"
 
@@ -57,7 +57,7 @@ import dotenv from "dotenv";
 import cors from "cors";
     import { ObjectId } from "mongodb"; // top pe
 
-const MONGODB_URI = "mongodb+srv://wwwpiyushverma2401_db_user:N3hTB85tx.xnStG@piyush2416.sp9zipj.mongodb.net/?appName=Piyush2416"; // apna URI daalo
+const MONGODB_URI = "Put your db url"; // apna URI daalo
 const Database = "Food-data";
 const collection = "Food-items";
 
@@ -155,7 +155,7 @@ app.listen(PORT, () => {
 
 // const MONGODB_URI =
 //   process.env.MONGODB_URI ||
-//   "mongodb+srv://wwwpiyushverma2401_db_user:N3hTB85tx.xnStG@piyush2416.sp9zipj.mongodb.net/?appName=Piyush2416";
+//   "Put your db url";
 // const DATABASE_NAME = "Food-data";
 // const COLLECTION_NAME = "Food-items";
 
